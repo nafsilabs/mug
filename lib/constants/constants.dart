@@ -15,7 +15,7 @@ class Constants {
   static const String coinsAmount = 'CoinsAmount';
   static const String networkType = 'networkType';
   static const int pageSize = 64;
-  static double totalDailyReward = 176256.00;
+  static double totalDailyReward = 69120.00;
   static double fontSizeExtraSmall = 12.0;
   static double fontSizeSmall = 14.0;
   static double fontSize = 16.0;
